@@ -17,7 +17,6 @@ import com.google.zxing.integration.android.IntentResult;
 
 public class MainActivity extends AppCompatActivity {
     private Button scan_btn;
-    public static TextView resultTextView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
