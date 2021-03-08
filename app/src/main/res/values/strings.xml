@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ScannerBarcode</string>
+    <string name="alerttext">Alert title</string>
+    <string name="messasetext">Do you want to exit?</string>
 </resources>
